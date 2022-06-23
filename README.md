@@ -1,5 +1,14 @@
 # Analisis-Data-Argentina
 
+-Regresión Lineal
+
+-Regresióm Lineal Multiples variables
+
+-Heatmap
+
+
+
+
 Analisis de datos sociales de la Argentina, mediante la utilización de Python me propuse analizar los datos de un dataframe disponible en Kaggle y tambien practicar realizando prediciones como ejemplo de tipo lineal de una y multiple variables. Primero se busco que datos estan mas correlacionados para hacer una predicción del tipo lineal con solo 2 variables que determine mediante analisis que son las que mas correlación tenian entre ellas y luego con multiples variables. Busco predecir cuantas personas en el pais se encuentran "sin atención medica" por cada 30.000 personas que se consideran para la encuesta como "analfabetos" en la Argentina, la grafica de la relación entre estos datos es la que sigue:
 
 ![01](https://user-images.githubusercontent.com/94582879/162589689-112aaac2-4818-44b4-8037-007c722a73f6.jpg)

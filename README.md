@@ -1,15 +1,14 @@
 # Analisis-Data-Argentina
 
--Regresión Lineal
+Algoritmos y graficos utilizados en este analisis:
 
--Regresióm Lineal Multiples variables
+* *Regresión Lineal*
 
--Heatmap
+* *Regresióm Lineal Multiples variables*
 
+* *Heatmap*
 
-
-
-Analisis de datos sociales de la Argentina, mediante la utilización de Python me propuse analizar los datos de un dataframe disponible en Kaggle y tambien practicar realizando prediciones como ejemplo de tipo lineal de una y multiple variables. Primero se busco que datos estan mas correlacionados para hacer una predicción del tipo lineal con solo 2 variables que determine mediante analisis que son las que mas correlación tenian entre ellas y luego con multiples variables. Busco predecir cuantas personas en el pais se encuentran "sin atención medica" por cada 30.000 personas que se consideran para la encuesta como "analfabetos" en la Argentina, la grafica de la relación entre estos datos es la que sigue:
+Analisis de datos sociales de la Argentina, mediante el uso de Python me propuse analizar los datos de un dataframe disponible en Kaggle y tambien practicar realizando prediciones como ejemplo de tipo lineal de una y multiple variables. Primero se busco que datos estan mas correlacionados para hacer una predicción del tipo lineal con solo 2 variables, que determine mediante analisis que son las que mas correlación tenian entre ellas y luego analizarlo con el uso de multiples variables del set de datos. Busco predecir cuantas personas en el pais se encuentran "sin atención medica" por cada 30.000 personas que se consideran para la encuesta como "analfabetos" en la Argentina, la grafica de la relación entre estos datos es la que sigue:
 
 ![01](https://user-images.githubusercontent.com/94582879/162589689-112aaac2-4818-44b4-8037-007c722a73f6.jpg)
 
@@ -17,7 +16,7 @@ Luego utilice multiples variables para predecir: Cuantas personas hay "sin atenc
 
 ![02](https://user-images.githubusercontent.com/94582879/162589617-01513d0b-b466-40de-801d-4432139a60fe.jpg)
 
-Por ultimo me centre en realizar una matriz de correlación para ver de este set de datos, cuales son los datos que tienen una mayor correlación entre ellos y que nivel de importancia tienen con respecto a otros datos, con esto genere un heatmap que se puede ver abajo el cual detalla el orden de los datos desde los mas correlacionados hasta los menos, tomando los 5 mas correlacionados.
+Por ultimo me centre en realizar una matriz de correlación para ver de este set de datos, cuales son los datos que tienen una mayor correlación entre ellos y que nivel de importancia tienen con respecto a otros datos, con esto genere un grafico "heatmap" que se puede ver en la imagen de abajo el cual detalla el orden de los datos desde los mas correlacionados hasta los menos, tomando los 5 mas correlacionados.
 
 ![03](https://user-images.githubusercontent.com/94582879/162589667-9dec59ca-8d15-4e25-8cea-367b9cd03630.jpg)
 
